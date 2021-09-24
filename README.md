@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johnchadlee
 - 👀 I’m interested in IOS development
-- 🌱 I’m currently learning SwiftUI and Firebase Implementation
 - 💞️ I’m looking to collaborate on a betting application called UnderDawg
 - 📫 How to reach me johncl@usc.edu
 
